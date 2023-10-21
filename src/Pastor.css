@@ -1,0 +1,27 @@
+/* Add this CSS to your stylesheet (e.g., App.css) */
+.pastor-card {
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 253, 253, 0.15);
+    border: 1px solid #02081f;
+    margin: 10px;
+    text-align: center;
+    width: 300px;
+    cursor: pointer;
+    padding: 20px;
+    
+}
+
+.pastor-card img {
+    max-height: 200px;
+    object-fit:cover;
+    width: 100%;
+}
+
+.pastor-card h3 {
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.pastor-card p {
+    margin: 0;
+}
