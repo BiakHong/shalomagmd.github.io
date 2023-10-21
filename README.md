@@ -1,7 +1,7 @@
 # Making a website for Shalom AG Church
 Welcome to the Shalom AG Website, a dynamic and interactive platform designed to showcase and share information about our church, its mission, and upcoming events. This project leverages React for building a modern, responsive, and user-friendly web application. Here are some key features and components:
 
-Features:
+## Features:
 Navigation Bar: Easily navigate through the website using the interactive navigation bar with links to Home, Media, Missions, and About Us sections.
 
 Live Facebook Video: Watch the latest Facebook Live video from our church, right on the homepage.
@@ -10,7 +10,7 @@ About the Pastor: Learn more about our beloved pastor, his background, and his r
 
 Upcoming Events: Stay informed about upcoming events, including date, time, and location details.
 
-Technologies Used:
+# Technologies Used:
 React: Building the frontend of the website for a seamless user experience.
 
 React Router: Implementing dynamic routing for different sections of the site.
@@ -19,10 +19,10 @@ HTML and CSS: Structuring and styling the web pages.
 
 JavaScript: Adding interactivity and functionality to the site.
 
-Get Involved:
+# Get Involved:
 We welcome contributions and collaboration from the community. If you'd like to contribute, report issues, or suggest improvements, please feel free to open an issue or submit a pull request.
 
-Project Structure:
+# Project Structure:
 src/components: Contains React components for different sections of the website.
 src/App.js: Main React application and routing setup.
 public: Static assets, including the HTML file and images.
